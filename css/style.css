@@ -1,0 +1,15 @@
+	body {
+		background-color: #00ffa0;
+		margin: 50px 50px 5px 50px;
+	} 
+	
+	.padding10 {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+	}
+
+	#f1-c1 {
+		background-color: lightgreen;
+	}
